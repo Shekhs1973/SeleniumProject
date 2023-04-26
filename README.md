@@ -1,2 +1,2 @@
 # SeleniumProject
-Selenium used to develop Webscraping Application 
+Softwares Installables required/used for developing this application
